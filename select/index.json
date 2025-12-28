@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mazy Night",
+  "base_artist": "King & Prince",
+  "createdAt": "2025-12-28T13:10:53.895652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mazy Night",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/01_Mazy_Night_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mazy Night",
+      "artist": "King",
+      "has_synced": true,
+      "path": "select/02_Mazy_Night_King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mazy Night",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/03_Mazy_Night_King_&_Prince.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mazy Night",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/pl_01_Mazy_Night_King_&_Prince.txt"
+    }
+  ]
+}
